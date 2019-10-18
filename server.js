@@ -10,5 +10,5 @@ const PORT = 5000;
 
 routes(app)
 app.listen(PORT, () => {
-    console.log(`listenin on post ${PORT}`);
+    console.log(`listening on post ${PORT}`);
   });

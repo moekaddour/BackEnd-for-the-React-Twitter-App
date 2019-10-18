@@ -14,6 +14,7 @@ module.exports.getTrumpTweets = function(req,res){
         response
       ) {
         res.json(data)
+       
       });
 }
 
